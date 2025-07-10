@@ -1,4 +1,4 @@
-<h2 align="center">Hi👋! My name is Divo Fajrianto and i love artificial intelligence.</h2>
+<h2 align="center">Hi👋! My name is Divo Fajrianto and i love Artificial Intelligence.</h2>
 
 ###
 
