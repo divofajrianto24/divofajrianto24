@@ -3,17 +3,18 @@
 
 <div align="center">
   <a href="https://github.com/divofajrianto24" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="48" height="36" alt="GitHub" />
+    <img src="https://cdn.simpleicons.org/github/ffffff" height="36" alt="GitHub" />
   </a>
   <img width="10" />
-  <a href="https://instagram.com/divofajrianto24" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="36" alt="Instagram" />
+  <a href="https://instagram.com/divosphere" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="36" alt="Instagram" />
   </a>
   <img width="10" />
-  <a href="https://www.linkedin.com/in/divo-fajrianto" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/divo-fajrianto-168150383/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="36" alt="LinkedIn" />
   </a>
 </div>
+
 
 ---
 
