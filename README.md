@@ -2,19 +2,18 @@
 <p align="center"><i>Future Software Engineer | Building Skills in AI & Fullstack Development</i></p>
 
 <div align="center">
-  <a href="https://github.com/divofajrianto24" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/github/ffffff" height="36" alt="GitHub" />
+  <a href="https://github.com/divofajrianto24" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="36" alt="GitHub" />
   </a>
-  <img width="10" />
-  <a href="https://instagram.com/divosphere" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="36" alt="Instagram" />
+  <img width="12" />
+  <a href="https://instagram.com/divosphere" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="36" alt="Instagram" />
   </a>
-  <img width="10" />
-  <a href="https://www.linkedin.com/in/divo-fajrianto-168150383/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="36" alt="LinkedIn" />
+  <img width="12" />
+  <a href="https://www.linkedin.com/in/divo-fajrianto-168150383/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="36" alt="LinkedIn" />
   </a>
 </div>
-
 
 ---
 
